@@ -1,5 +1,5 @@
-# Melanoma Detection
-> Outline a brief description of your project.
+# Melanoma Detection Case Study
+
 
 
 ## Table of Contents
@@ -15,15 +15,16 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 The data set contains the following diseases:
 
-Actinic keratosis
-Basal cell carcinoma
-Dermatofibroma
-Melanoma
-Nevus
-Pigmented benign keratosis
-Seborrheic keratosis
-Squamous cell carcinoma
-Vascular lesion
+1. Actinic keratosis
+2. Basal cell carcinoma
+3. Dermatofibroma
+4. Melanoma
+5. Nevus
+6. Pigmented benign keratosis
+7. Seborrheic keratosis
+8. Vascular lesion
+9. Squamous cell carcinoma
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -46,8 +47,8 @@ Vascular lesion
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by Upgrad team and the CNN topics taught.
+
+This project was inspired by Upgrad team and the CNN topics taught.
 
 
 ## Contact
